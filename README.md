@@ -1,4 +1,5 @@
 Instagram User Analytics
+
 This project involves analyzing user interactions and engagement with the Instagram app to provide valuable insights that can help the business grow.
 User analysis involves tracking how users engage with a digital product, such as a software application or a mobile app. The insights derived from this 
 analysis can be used by various teams within the business. For example, the marketing team might use these insights to launch a new campaign, the product
